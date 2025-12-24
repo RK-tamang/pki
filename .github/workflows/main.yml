@@ -12,4 +12,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run PKI test
-        run: python test_pki_tool.py
+        run: python test_app.py
